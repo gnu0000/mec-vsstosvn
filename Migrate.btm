@@ -1,0 +1,5 @@
+perl VSSToSVN.pl Estimator.cfg
+perl VSSToSVN.pl SiteXchange.cfg
+perl VSSToSVN.pl Libs.cfg
+perl VSSToSVN.pl Samples.cfg
+perl VSSToSVN.pl Utilities.cfg
